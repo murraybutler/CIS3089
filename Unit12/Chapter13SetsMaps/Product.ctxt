@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=productCode
+comment0.target=Product(java.lang.String)
+comment0.text=\r\n\ Creates\ the\ product\ with\ the\ specified\ code.\r\n\ \r\n\ @param\ productCode\ a\ unique\ code\ for\ this\ product\r\n
+comment1.params=
+comment1.target=java.lang.String\ getProductCode()
+comment1.text=\r\n\ Returns\ the\ product\ code\ for\ this\ product.\r\n\ \r\n\ @return\ the\ product\ code\r\n
+comment2.params=
+comment2.target=void\ incrementSales()
+comment2.text=\r\n\ Increments\ the\ sales\ of\ this\ product.\r\n
+comment3.params=obj
+comment3.target=int\ compareTo(Product)
+comment3.text=\r\n\ Compares\ this\ product\ to\ the\ specified\ product\ based\ on\ the\ product\r\n\ code.\r\n\ \r\n\ @param\ other\ the\ other\ product\r\n\ @return\ an\ integer\ code\ result\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Returns\ a\ string\ representation\ of\ this\ product.\r\n\ \r\n\ @return\ a\ string\ representation\ of\ the\ product\r\n
+numComments=5

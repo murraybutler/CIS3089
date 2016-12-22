@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Creates\ and\ populates\ a\ group\ of\ users.\ Then\ prompts\ for\ interactive\r\n\ searches,\ and\ finally\ prints\ all\ users.\r\n
+numComments=1

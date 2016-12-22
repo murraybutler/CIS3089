@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=data\ min\ max\ target
+comment0.target=boolean\ linearSearch(java.lang.Object[],\ int,\ int,\ java.lang.Object)
+comment0.text=\r\n\ Searches\ the\ specified\ array\ of\ objects\ using\ a\ linear\ search\r\n\ algorithm.\r\n\r\n\ @param\ data\ \ \ the\ array\ to\ be\ searched\r\n\ @param\ min\ \ \ \ the\ integer\ representation\ of\ the\ minimum\ value\ \r\n\ @param\ max\ \ \ \ the\ integer\ representation\ of\ the\ maximum\ value\r\n\ @param\ target\ the\ element\ being\ searched\ for\r\n\ @return\ \ \ \ \ \ \ true\ if\ the\ desired\ element\ is\ found\r\n
+comment1.params=data\ min\ max\ target
+comment1.target=boolean\ binarySearch(java.lang.Comparable[],\ int,\ int,\ java.lang.Comparable)
+comment1.text=\r\n\ Searches\ the\ specified\ array\ of\ objects\ using\ a\ binary\ search\r\n\ algorithm.\r\n\r\n\ @param\ data\ \ \ the\ array\ to\ be\ searched\r\n\ @param\ min\ \ \ \ the\ integer\ representation\ of\ the\ minimum\ value\ \r\n\ @param\ max\ \ \ \ the\ integer\ representation\ of\ the\ maximum\ value\r\n\ @param\ target\ the\ element\ being\ searched\ for\ \r\n\ @return\ \ \ \ \ \ \ true\ if\ the\ desired\ element\ is\ found\r\n
+numComments=2

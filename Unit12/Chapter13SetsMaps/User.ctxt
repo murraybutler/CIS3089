@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=userId\ firstName\ lastName
+comment0.target=User(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Sets\ up\ this\ user\ with\ the\ specified\ information.\r\n\ \r\n\ @param\ userId\ a\ user\ identification\ string\r\n\ @param\ firstName\ the\ user's\ first\ name\r\n\ @param\ lastName\ the\ user's\ last\ name\r\n
+comment1.params=
+comment1.target=java.lang.String\ getUserId()
+comment1.text=\r\n\ Returns\ the\ user\ id\ of\ this\ user.\r\n\ \r\n\ @return\ the\ user\ id\ of\ the\ user\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ a\ string\ representation\ of\ this\ user.\r\n\ \r\n\ @return\ a\ string\ representation\ of\ the\ user\r\n
+numComments=3

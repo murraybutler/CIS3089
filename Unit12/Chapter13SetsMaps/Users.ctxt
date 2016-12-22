@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Users()
+comment0.text=\r\n\ Creates\ a\ user\ map\ to\ track\ users.\r\n
+comment1.params=user
+comment1.target=void\ addUser(User)
+comment1.text=\r\n\ Adds\ a\ new\ user\ to\ the\ user\ map.\r\n\ \r\n\ @param\ user\ the\ user\ to\ add\r\n
+comment2.params=userId
+comment2.target=User\ getUser(java.lang.String)
+comment2.text=\r\n\ Retrieves\ and\ returns\ the\ specified\ user.\r\n\ \r\n\ @param\ userId\ the\ user\ id\ of\ the\ target\ user\r\n\ @return\ the\ target\ user,\ or\ null\ if\ not\ found\r\n
+comment3.params=
+comment3.target=java.util.Set\ getUserIds()
+comment3.text=\r\n\ Returns\ a\ set\ of\ all\ user\ ids.\r\n\ \r\n\ @return\ a\ set\ of\ all\ user\ ids\ in\ the\ map\r\n
+numComments=4

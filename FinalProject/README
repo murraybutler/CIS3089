@@ -1,0 +1,17 @@
+To run the Bloom Filter and associated functions, please be sure the following is done.
+
+1. remove directories for fresh run:
+  remove DDStore/ DDMaps/ bloomLog bloomOut
+    -these are the segment and map stores, as well as the log and filter storage
+
+2. run the compile:
+  javac BloomFile/*.java
+
+3. run the driver file:
+  java BloomFile/bloomDriver
+    -the initial run will deduplicate some extents, for further dedup, run again.  
+      Deduplicaiton will reach 100%, meaning all extents have been seen and the 
+      data is no longer unique.
+
+The files in this directory named test1 through test9 are Lorem Ipsum filled files
+of differing lengths, used as the deduplication targets.

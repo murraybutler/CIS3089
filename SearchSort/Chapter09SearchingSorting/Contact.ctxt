@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=first\ last\ telephone
+comment0.target=Contact(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Sets\ up\ this\ contact\ with\ the\ specified\ information.\r\n\r\n\ @param\ first\ \ \ \ \ a\ string\ representation\ of\ a\ first\ name\r\n\ @param\ last\ \ \ \ \ \ a\ string\ representation\ of\ a\ last\ name\r\n\ @param\ telephone\ a\ string\ representation\ of\ a\ phone\ number\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Returns\ a\ description\ of\ this\ contact\ as\ a\ string.\r\n\r\n\ @return\ a\ string\ representation\ of\ this\ contact\r\n
+comment2.params=other
+comment2.target=int\ compareTo(Contact)
+comment2.text=\r\n\ Uses\ both\ last\ and\ first\ names\ to\ determine\ lexical\ ordering.\r\n\r\n\ @param\ other\ the\ contact\ to\ be\ compared\ to\ this\ contact\r\n\ @return\ \ \ \ \ \ the\ integer\ result\ of\ the\ comparison\r\n
+numComments=3
